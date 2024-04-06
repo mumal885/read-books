@@ -1,8 +1,5 @@
 
 
-
-
-
 ![logo](https://github.com/mumal885/read-books/blob/main/read%20books%20%20%2B/bw.png)
 # read-books
 This read-books is coded in html, css,js.
